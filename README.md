@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Technical Writing
 - 📫 How to reach me: midwaymaster10@gmail.com
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I love GitHub
+- ⚡ Fun fact: Watch me, one day I'll give the world something to talk about.
 
 
 
