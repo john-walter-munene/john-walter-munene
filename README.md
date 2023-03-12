@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Frontend development while learning and writing about new tools.
-- 🌱 I’m currently learning Python and JavaScript
-- 👯 I’m looking to collaborate on web development projects
+- 🔭 I’m a Frontend developer transitioning to Full-stack under the guidance of "The Odin Project" developer community.
+- 🌱 I write JavaScript and Python code!
+- 👯 If you're looking to collaborate of web developement projects, I'm here..
 <!-- - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about Technical Writing
+- 💬 Ask anything about Technical Writing. Words are my bread and butter.
 - 📫 How to reach me: midwaymaster10@gmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Watch me, one day I'll give the world something to talk about.
