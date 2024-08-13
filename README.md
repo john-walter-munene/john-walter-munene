@@ -31,11 +31,13 @@
 </p>
 
 **Other technologies**
-- Git
-- GitHub
-- NPM
-- Webpack
-- Babel
+<p>
+ <a href="https://git-scm.com/"><img src="https://telegra.ph/file/94d7db45c0b7131f3fef7.jpg" alt="Git" width="48"><a>
+  <a href="https://github.com/"><img src="https://telegra.ph/file/f500749c128f600ff11de.jpg" alt="GitHub" width="48"><a>
+   <a href="https://www.npmjs.com/"><img src="https://telegra.ph/file/4f48a2c73b2b10c758e51.jpg" alt="npm" width="48"><a>
+    <a href="https://webpack.js.org/"><img src="https://telegra.ph/file/1781795fa77dc80334a6a.jpg" alt="Webpack" width="48"><a>
+     <a href="https://babeljs.io/"><img src="https://telegra.ph/file/27c7228dab6bf0aca57c3.png" alt="Babel" width="48" style="position: relative; top: -10px"><a>
+</p>
 
 **On track to learning**
 - TS
