@@ -43,7 +43,6 @@
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-walter-munene&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="john-walter-munene" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=john-walter-munene&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="john-walter-munene" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=john-walter-munene&theme=highcontrast&hide_border=true" alt="john-walter-munene" />
 </p>
 
 **On track to learning**
