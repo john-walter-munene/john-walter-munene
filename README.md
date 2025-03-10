@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🔭 I’m a Frontend developer transitioning to Full-stack under the guidance of "The Odin Project" developer community.
-- 🌱 I write JavaScript and Python code!
+- :computer: A passionate Frontend Developer transitioning to Full-Stack Development through 'The Odin Project.' I specialize in building dynamic web applications using JavaScript and Python, with a strong foundation in Technical Writing. I enjoy collaborating on innovative projects and would love to connect with like-minded professionals!
+- 
 - 👯 If you're looking to collaborate on web developement projects, I'm here...As a developer and a documentation specialist!
 <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask anything about Technical Writing. Words are my bread and butter.
