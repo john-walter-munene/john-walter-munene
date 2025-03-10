@@ -39,15 +39,20 @@
      <a href="https://babeljs.io/"><img src="https://telegra.ph/file/27c7228dab6bf0aca57c3.png" alt="Babel" width="48" style="position: relative; top: -10px"><a>
 </p>
 
-## Stats📈
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-walter-munene&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="john-walter-munene" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=john-walter-munene&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="john-walter-munene" />
-</p>
+## Projects
+- [Battleship] (https://github.com/john-walter-munene/Project-Battleship) - A  JavaScript implementation of the classic Battleship game.
+- [Crazy 777] (https://github.com/john-walter-munene/Crazy-777) - A logical build of the Casino game: Crazy 777.
+- [Testing Practice] (https://github.com/john-walter-munene/Project-Testing-Practice) - A set of Unit Tests for Common JavaScript operations.
+- [Knights Travails] (https://github.com/john-walter-munene/Knights-Travails-Chess-) - A depth-first search algorithm to triangulate moves in a chess game.
+- [Binary Search Tree] (https://github.com/john-walter-munene/Project-Binary-Search-Trees) - A balanced binary search tree with methods for key operations.
+- [HashMap] (https://github.com/john-walter-munene/Project-HashMap) - A custom JavaScript implementation of a HashMap data structure — dynamic.
+- [LinkedLists] (https://github.com/john-walter-munene/Project-Linked-Lists) - A fully functional linked list data structure.
+- [Weather APP] (https://github.com/john-walter-munene/Weather-App) - A weather application to flex asynchronous programming.
+- [Todo List] (https://github.com/john-walter-munene/Todo-List) - A functional task management application with local storage.
+- [Admin Dashboard] (https://github.com/john-walter-munene/Admin-Dashboard) - An admin panel to manage web applications through a backend.
 
-**On track to learning**
-- TS
-- Vue
-- Angular
-- Solidity
-- Blockchain technology
+## Learning Progress and Career Goals
+
+I'm expanding my skill set by learning React and Node to stay ahead in the ever-evolving tech landscape. I also write about blockchain technology and cybersecurity. 
+
+I aim to become a Full-Stack Developer specializing in web applications and blockchain-based solutions. I'd also love to write developer docs in APIs and SDKs.
