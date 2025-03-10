@@ -3,13 +3,8 @@
 ## About Me
 
 - :computer: A passionate Frontend Developer transitioning to Full-Stack Development through 'The Odin Project.' I specialize in building dynamic web applications using JavaScript and Python, with a strong foundation in Technical Writing. I enjoy collaborating on innovative projects and would love to connect with like-minded professionals!
-- 
-- 👯 If you're looking to collaborate on web developement projects, I'm here...As a developer and a documentation specialist!
-<!-- - 🤔 I’m looking for help with ...-->
-- 💬 Ask anything about Technical Writing. Words are my bread and butter.
+  
 - 📫 How to reach me: midwaymaster10@gmail.com
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: Watch me, one day I'll give the world something to talk about.
 
 ## Connect With Me :wave:
 <p>
@@ -40,16 +35,16 @@
 </p>
 
 ## Projects
-- [Battleship] (https://github.com/john-walter-munene/Project-Battleship) - A  JavaScript implementation of the classic Battleship game.
-- [Crazy 777] (https://github.com/john-walter-munene/Crazy-777) - A logical build of the Casino game: Crazy 777.
-- [Testing Practice] (https://github.com/john-walter-munene/Project-Testing-Practice) - A set of Unit Tests for Common JavaScript operations.
-- [Knights Travails] (https://github.com/john-walter-munene/Knights-Travails-Chess-) - A depth-first search algorithm to triangulate moves in a chess game.
-- [Binary Search Tree] (https://github.com/john-walter-munene/Project-Binary-Search-Trees) - A balanced binary search tree with methods for key operations.
-- [HashMap] (https://github.com/john-walter-munene/Project-HashMap) - A custom JavaScript implementation of a HashMap data structure — dynamic.
-- [LinkedLists] (https://github.com/john-walter-munene/Project-Linked-Lists) - A fully functional linked list data structure.
-- [Weather APP] (https://github.com/john-walter-munene/Weather-App) - A weather application to flex asynchronous programming.
-- [Todo List] (https://github.com/john-walter-munene/Todo-List) - A functional task management application with local storage.
-- [Admin Dashboard] (https://github.com/john-walter-munene/Admin-Dashboard) - An admin panel to manage web applications through a backend.
+- [Battleship](https://github.com/john-walter-munene/Project-Battleship) - A  JavaScript implementation of the classic Battleship game.
+- [Crazy 777](https://github.com/john-walter-munene/Crazy-777) - A logical build of the Casino game: Crazy 777.
+- [Testing Practice](https://github.com/john-walter-munene/Project-Testing-Practice) - A set of Unit Tests for Common JavaScript operations.
+- [Knights Travails](https://github.com/john-walter-munene/Knights-Travails-Chess-) - A depth-first search algorithm to triangulate moves in a chess game.
+- [Binary Search Tree](https://github.com/john-walter-munene/Project-Binary-Search-Trees) - A balanced binary search tree with methods for key operations.
+- [HashMap](https://github.com/john-walter-munene/Project-HashMap) - A custom JavaScript implementation of a HashMap data structure — dynamic.
+- [LinkedLists](https://github.com/john-walter-munene/Project-Linked-Lists) - A fully functional linked list data structure.
+- [Weather APP](https://github.com/john-walter-munene/Weather-App) - A weather application to flex asynchronous programming.
+- [Todo List](https://github.com/john-walter-munene/Todo-List) - A functional task management application with local storage.
+- [Admin Dashboard](https://github.com/john-walter-munene/Admin-Dashboard) - An admin panel to manage web applications through a backend.
 
 ## Learning Progress and Career Goals
 
