@@ -2,9 +2,11 @@
 
 ## About Me
 
-- :computer: A passionate Frontend Developer transitioning to Full-Stack Development through 'The Odin Project.' I specialize in building dynamic web applications using JavaScript and Python, with a strong foundation in Technical Writing. I enjoy collaborating on innovative projects and would love to connect with like-minded professionals!
+- 💻 Full Stack Developer specializing in JavaScript (Node.js, Express, React) and PostgreSQL, focused on building full-stack web applications, REST APIs, and database-driven systems.
+- 🧠 Strong interest in backend architecture, Frontend design patterns, API design, and building scalable web applications.
+- ✍️ Technical Writer with experience simplifying complex software concepts into clear developer documentation.
   
-- 📫 How to reach me: midwaymaster10@gmail.com
+📫 Reach me at: midwaymaster10@gmail.com
 
 ## Connect With Me :wave:
 <p>
@@ -34,20 +36,21 @@
      <a href="https://babeljs.io/"><img src="https://telegra.ph/file/27c7228dab6bf0aca57c3.png" alt="Babel" width="48" style="position: relative; top: -10px"><a>
 </p>
 
-## Projects
-- [Battleship](https://github.com/john-walter-munene/Project-Battleship) - A  JavaScript implementation of the classic Battleship game.
-- [Crazy 777](https://github.com/john-walter-munene/Crazy-777) - A logical build of the Casino game: Crazy 777.
-- [Testing Practice](https://github.com/john-walter-munene/Project-Testing-Practice) - A set of Unit Tests for Common JavaScript operations.
-- [Knights Travails](https://github.com/john-walter-munene/Knights-Travails-Chess-) - A depth-first search algorithm to triangulate moves in a chess game.
-- [Binary Search Tree](https://github.com/john-walter-munene/Project-Binary-Search-Trees) - A balanced binary search tree with methods for key operations.
-- [HashMap](https://github.com/john-walter-munene/Project-HashMap) - A custom JavaScript implementation of a HashMap data structure — dynamic.
-- [LinkedLists](https://github.com/john-walter-munene/Project-Linked-Lists) - A fully functional linked list data structure.
-- [Weather APP](https://github.com/john-walter-munene/Weather-App) - A weather application to flex asynchronous programming.
-- [Todo List](https://github.com/john-walter-munene/Todo-List) - A functional task management application with local storage.
-- [Admin Dashboard](https://github.com/john-walter-munene/Admin-Dashboard) - An admin panel to manage web applications through a backend.
+## 🚀 Projects
+- Mini Message Board — Full-stack CRUD app using Node.js, Express, PostgreSQL, and EJS
+- Shopping Cart — Dynamic cart system using JavaScript and LocalStorage
+- Todo List — Task management app with CRUD operations
+- Stable Viewpoints — Open-source collaborative blog project
+- [Inventory System (In Progress)] — Full-stack system with authentication and PostgreSQL integration
 
-## Learning Progress and Career Goals
+## 📚 Learning & Focus
+Currently deepening my understanding of:
 
-I'm expanding my skill set by learning React and Node to stay ahead in the ever-evolving tech landscape. I also write about blockchain technology and cybersecurity. 
+- Backend development with Node.js and Express
+- Authentication systems and secure API design
+- Database design and optimization (PostgreSQL)
+- Full-stack application architecture
+- API and SDK documentation
 
-I aim to become a Full-Stack Developer specializing in web applications and blockchain-based solutions. I'd also love to write developer docs in APIs and SDKs.
+## 🎯 Career Direction
+I aim to grow as a Full Stack Developer building scalable web applications and APIs, while also contributing technical documentation for developer tools and platforms. I aim to grow as a full-stack developer, building scalable web applications and APIs, while also contributing technical documentation for developer tools and platforms.
