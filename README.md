@@ -53,4 +53,4 @@ Currently deepening my understanding of:
 - API and SDK documentation
 
 ## 🎯 Career Direction
-I aim to grow as a Full Stack Developer building scalable web applications and APIs, while also contributing technical documentation for developer tools and platforms. I aim to grow as a full-stack developer, building scalable web applications and APIs, while also contributing technical documentation for developer tools and platforms.
+I aim to grow as a Full Stack Developer building scalable web applications and APIs, while also contributing technical documentation for developer tools and platforms.
