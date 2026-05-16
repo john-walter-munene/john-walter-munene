@@ -37,11 +37,11 @@
 </p>
 
 ## 🚀 Projects
-- Mini Message Board — Full-stack CRUD app using Node.js, Express, PostgreSQL, and EJS
-- Shopping Cart — Dynamic cart system using JavaScript and LocalStorage
-- Todo List — Task management app with CRUD operations
-- Stable Viewpoints — Open-source collaborative blog project
-- [Inventory System (In Progress)] — Full-stack system with authentication and PostgreSQL integration
+- [Members Only (In Progress)] — Full-stack messaging system with authentication and PostgreSQL integration
+- Inventory app — Full-stack CRUD app using Node.js, Express, PostgreSQL, and EJS
+- Shopping Cart — Dynamic cart system using JavaScript, React and LocalStorage
+- Stable Viewpoints — Open-source collaborative blog project (NextJS + TypeScript + Markdown)
+- Todo List — Task management app with CRUD operations built with Vanilla JS
 
 ## 📚 Learning & Focus
 Currently deepening my understanding of:
