@@ -37,11 +37,34 @@
 </p>
 
 ## 🚀 Projects
-- [Members Only (In Progress)] — Full-stack messaging system with authentication and PostgreSQL integration
-- Inventory app — Full-stack CRUD app using Node.js, Express, PostgreSQL, and EJS
-- Shopping Cart — Dynamic cart system using JavaScript, React and LocalStorage
-- Stable Viewpoints — Open-source collaborative blog project (NextJS + TypeScript + Markdown)
-- Todo List — Task management app with CRUD operations built with Vanilla JS
+
+### 📁 File Uploader (Flagship Project)
+A full-stack cloud storage system inspired by Google Drive. Includes authentication, folder hierarchy, file uploads, Supabase storage integration, and secure shareable links with expiration logic.
+Tech: Node.js, Express, Prisma, PostgreSQL, Passport.js, Supabase
+
+---
+
+### 🌱 Agri-Alerts
+A real-world agriculture alert system designed to provide timely notifications and data-driven insights. Focuses on solving practical problems using backend logic and API-driven architecture.
+Tech: Node.js, Express, APIs, PostgreSQL
+
+---
+
+### 🧾 Inventory Application
+A full-stack inventory management system featuring CRUD operations, structured database design, and scalable backend architecture.
+Tech: Node.js, Express, Prisma, PostgreSQL
+
+---
+
+### 🔐 Members Only
+A role-based authentication system where users can post and view content based on permissions. Demonstrates secure authentication and authorization flows.
+Tech: Node.js, Express, Passport.js, PostgreSQL
+
+---
+
+### 🛒 Shopping Cart
+A dynamic shopping cart application with product selection, state management, and interactive UI behavior.
+Tech: JavaScript, React, LocalStorage
 
 ## 📚 Learning & Focus
 Currently deepening my understanding of:
