@@ -1,4 +1,3 @@
-```md
 # Hi, I'm John Walter 👋
 
 ## Full Stack JavaScript Developer | Technical Writer
@@ -176,4 +175,3 @@ I've contributed to documentation and technical content for companies including:
 ---
 
 ⭐ Thanks for visiting my profile! I'm always open to collaborating on interesting projects, contributing to open source, and connecting with fellow developers.
-```
