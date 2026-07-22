@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm John Walter 👋
 
 ## Full-Stack JavaScript & TypeScript Developer | Backend Engineer | Technical Writer
@@ -181,4 +180,3 @@ I've contributed articles and documentation for companies including:
 ⭐ **Thanks for visiting my profile!**
 
 I'm always open to collaborating on exciting projects, contributing to open source, writing technical content, and building software that solves real-world problems.
-```
