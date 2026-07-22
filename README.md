@@ -1,26 +1,31 @@
+```markdown
 # Hi, I'm John Walter 👋
 
-## Full Stack JavaScript Developer | Technical Writer
+## Full-Stack JavaScript & TypeScript Developer | Backend Engineer | Technical Writer
 
-I build **full-stack web applications, REST APIs, and database-driven systems** using **JavaScript, Node.js, Express, React, and PostgreSQL**. I enjoy designing scalable backend architectures, building secure authentication systems, and developing intuitive frontend experiences.
+I build **production-ready web applications, scalable REST APIs, and database-driven systems** using modern JavaScript and TypeScript technologies. My passion lies in backend engineering, secure authentication and authorization, API design, and building software that scales.
 
-Alongside software development, I create technical documentation and developer content that makes complex software easier to understand.
+Alongside software development, I write technical articles, API guides, and developer documentation that make complex technologies easier to understand.
 
 📫 **Email:** midwaymaster10@gmail.com
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💻 Full Stack JavaScript Developer focused on backend development, REST APIs, authentication systems, and modern web applications.
-- ⚛️ Experienced building React applications and integrating REST APIs.
-- 🗄️ Passionate about designing relational databases with PostgreSQL.
-- ✍️ Technical Writer creating documentation, tutorials, and API guides for technology companies and open-source projects.
-- 🌱 Always learning and building better software.
+- 💻 Full-Stack JavaScript & TypeScript Developer with a strong backend focus.
+- ⚙️ Build scalable APIs using **Express** and **NestJS**.
+- ⚛️ Develop modern web applications with **React** and **Next.js**.
+- 🗄️ Design efficient relational databases with **PostgreSQL** and **Prisma ORM**.
+- 🔐 Passionate about authentication, authorization, API security, and software architecture.
+- ☁️ Experienced integrating cloud platforms including **Supabase**.
+- 🐳 Containerize applications using **Docker**.
+- ✍️ Technical Writer creating documentation, tutorials, and engineering articles for technology companies and developer communities.
+- 🚀 Continuously learning and building production-grade software.
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p>
   <a href="https://x.com/munene254_">
@@ -44,111 +49,106 @@ Alongside software development, I create technical documentation and developer c
 
 # 🛠️ Tech Stack
 
+## Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
+</p>
+
+---
+
 ## Frontend
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" width="48">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://telegra.ph/file/4b278226991c3b84cb9a1.jpg" width="48">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://telegra.ph/file/a6ebbcf7eabd1f4c3dd9e.jpg" width="48">
-  </a>
-
-  <a href="https://react.dev">
-    <img src="https://telegra.ph/file/f35d733b5f3f2dfabc811.jpg" width="48">
-  </a>
+  <img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" width="48"/>
+  <img src="https://telegra.ph/file/4b278226991c3b84cb9a1.jpg" width="48"/>
+  <img src="https://telegra.ph/file/a6ebbcf7eabd1f4c3dd9e.jpg" width="48"/>
+  <img src="https://telegra.ph/file/f35d733b5f3f2dfabc811.jpg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/>
 </p>
+
+---
 
 ## Backend & Database
 
 <p>
-  <a href="https://nodejs.org">
-    <img src="https://telegra.ph/file/7195dd1099fb83bbd5406.jpg" width="48">
-  </a>
-
-  <a href="https://expressjs.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48">
-  </a>
-
-  <a href="https://www.postgresql.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48">
-  </a>
+  <img src="https://telegra.ph/file/7195dd1099fb83bbd5406.jpg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48"/>
 </p>
 
-## Tools
+---
+
+## DevOps & Tools
 
 <p>
-  <a href="https://git-scm.com">
-    <img src="https://telegra.ph/file/94d7db45c0b7131f3fef7.jpg" width="48">
-  </a>
-
-  <a href="https://github.com">
-    <img src="https://telegra.ph/file/f500749c128f600ff11de.jpg" width="48">
-  </a>
-
-  <a href="https://www.npmjs.com">
-    <img src="https://telegra.ph/file/4f48a2c73b2b10c758e51.jpg" width="48">
-  </a>
-
-  <a href="https://www.postman.com">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48">
-  </a>
+  <img src="https://telegra.ph/file/94d7db45c0b7131f3fef7.jpg" width="48"/>
+  <img src="https://telegra.ph/file/f500749c128f600ff11de.jpg" width="48"/>
+  <img src="https://telegra.ph/file/4f48a2c73b2b10c758e51.jpg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📝 Blog API
+## 🎯 Overlay
 
-A RESTful Blog API supporting authentication, authorization, CRUD operations, relational data management, and scalable MVC architecture.
+**Live Demo:** https://overlay-web-eight.vercel.app/
 
-**Tech:** Node.js • Express • PostgreSQL • Passport.js • REST API
+**Repository:** https://github.com/john-walter-munene/overlay/tree/dev
 
----
+A production-ready sports prediction platform featuring secure authentication, role-based authorization, subscription management, article publishing, user dashboards, payment workflows, and scalable backend architecture.
 
-## 📁 File Uploader
-
-A cloud storage application inspired by Google Drive featuring authentication, folder management, Supabase storage integration, secure file uploads, and shareable links.
-
-**Tech:** Node.js • Express • Prisma • PostgreSQL • Passport.js • Supabase
+**Tech:** Next.js • NestJS • TypeScript • Prisma • PostgreSQL • Docker • Supabase • CSS-In-JS
 
 ---
 
-## 🔐 Members Only
+## 📝 Blog Platform API
 
-A role-based authentication application demonstrating secure login, session management, protected routes, and authorization workflows.
+A production-ready blogging platform supporting separate reader and editor applications with secure authentication, publishing workflows, comments, and relational data management.
 
-**Tech:** Node.js • Express • PostgreSQL • Passport.js
+**Tech:** Node.js • Express • PostgreSQL • Prisma • JWT • REST API
 
 ---
 
-## 📦 Inventory Application
+## ☁️ File Uploader
 
-A full-stack inventory management application with CRUD functionality, relational database design, file uploads, and MVC architecture.
+A Google Drive-inspired cloud storage application featuring secure authentication, nested folders, Supabase Storage integration, file sharing, and cloud uploads.
+
+**Tech:** Node.js • Express • PostgreSQL • Prisma • Passport.js • Supabase
+
+---
+
+## 📦 Inventory Management System
+
+A full-stack inventory management application with relational database design, image uploads, product management, and secure CRUD operations.
 
 **Tech:** Node.js • Express • PostgreSQL • Multer
 
 ---
 
-## 🌾 Agri-Alerts
+## 🔐 Members Only
 
-An agriculture alert platform integrating APIs to deliver timely notifications and data-driven insights.
+A role-based authentication application demonstrating secure registration, login, protected routes, session management, and authorization workflows.
 
-**Tech:** Node.js • Express • PostgreSQL • REST APIs
+**Tech:** Node.js • Express • PostgreSQL • Passport.js
 
 ---
 
 # ✍️ Technical Writing
 
-Alongside software development, I create technical documentation, tutorials, API guides, and developer-focused content.
+Alongside software engineering, I create technical content focused on backend development, APIs, cloud technologies, cybersecurity, and developer tooling.
 
-I've contributed to documentation and technical content for companies including:
+I've contributed articles and documentation for companies including:
 
 - Geekflare
 - Middleware
@@ -158,20 +158,27 @@ I've contributed to documentation and technical content for companies including:
 - Indigo Labs
 - Eryx
 - Waffle Capital
--Adastack
+- Adastack
 
 ---
 
 # 🎯 Interests
 
 - Backend Engineering
+- Software Architecture
 - REST API Design
 - Authentication & Authorization
+- API Security
 - Database Design
-- Full Stack JavaScript Development
+- Full-Stack Web Development
+- Cloud Computing
+- DevOps
 - Open Source
 - Technical Documentation
 
 ---
 
-⭐ Thanks for visiting my profile! I'm always open to collaborating on interesting projects, contributing to open source, and connecting with fellow developers.
+⭐ **Thanks for visiting my profile!**
+
+I'm always open to collaborating on exciting projects, contributing to open source, writing technical content, and building software that solves real-world problems.
+```
